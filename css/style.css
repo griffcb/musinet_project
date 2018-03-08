@@ -1,0 +1,32 @@
+body{
+	background-color:rgb(104, 106, 109);
+	color:rgb(252, 252, 252);
+}
+#text1{
+	color:black;
+}
+.contactform{
+	background-color:rgb(224, 226, 229);
+}
+#contactus{
+	color:gray;
+}
+#navbarcolor{
+	background-color:rgb(119, 121, 124);
+}
+#curve{
+	border-radius: 25px;
+
+}
+.cardcolor{
+	background-color:rgb(224, 226, 229);
+}
+.btnpos{
+	position:absolute;
+	float:right;
+	right:20px;
+}
+.cardpos{
+	top:15px;
+	right:276px;
+}
